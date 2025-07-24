@@ -1,0 +1,88 @@
+{
+  "1907.08169v3": {
+    "title": "Entering into the Wide Field Adaptive Optics Era on Maunakea",
+    "authors": [
+      "Gaetano Sivo",
+      "John Blakeslee",
+      "Jennifer Lotz",
+      "Henry Roe",
+      "Morten Andersen",
+      "Julia Scharwachter",
+      "David Palmer",
+      "Scot Kleinman",
+      "Andy Adamson",
+      "Paul Hirst",
+      "Eduardo Marin",
+      "Laure Catala",
+      "Marcos van Dam",
+      "Stephen Goodsell",
+      "Natalie Provost",
+      "Ruben Diaz",
+      "Inger Jorgensen",
+      "Hwihyun Kim",
+      "Marie Lemoine-Busserole",
+      "Celia Blain",
+      "Mark Chun",
+      "Mark Ammons",
+      "Julian Christou",
+      "Charlotte Bond",
+      "Suresh Sivanandam",
+      "Paolo Turri",
+      "Peter Wizinowich",
+      "Carlos Correia",
+      "Benoit Neichel",
+      "Jean-Pierre Veran",
+      "Simone Esposito",
+      "Masen Lamb",
+      "Thierry Fusco",
+      "Francois Rigaut",
+      "Eric Steinbring"
+    ],
+    "summary": "As part of the National Science Foundation funded \"Gemini in the Era of\nMultiMessenger Astronomy\" (GEMMA) program, Gemini Observatory is developing\nGNAO, a widefield adaptive optics (AO) facility for Gemini-North on Maunakea,\nthe only 8m-class open-access telescope available to the US astronomers in the\nnorthern hemisphere. GNAO will provide the user community with a queue-operated\nMulti-Conjugate AO (MCAO) system, enabling a wide range of innovative solar\nsystem, Galactic, and extragalactic science with a particular focus on\nsynergies with JWST in the area of time-domain astronomy. The GNAO effort\nbuilds on institutional investment and experience with the more limited\nblock-scheduled Gemini Multi-Conjugate System (GeMS), commissioned at Gemini\nSouth in 2013. The project involves close partnerships with the community\nthrough the recently established Gemini AO Working Group and the GNAO Science\nTeam, as well as external instrument teams. The modular design of GNAO will\nenable a planned upgrade to a Ground Layer AO (GLAO) mode when combined with an\nAdaptive Secondary Mirror (ASM). By enhancing the natural seeing by an expected\nfactor of two, GLAO will vastly improve Gemini North's observing efficiency for\nseeing-limited instruments and strengthen its survey capabilities for\nmulti-messenger astronomy.",
+    "pdf_url": "http://arxiv.org/pdf/1907.08169v3",
+    "published": "2019-07-18"
+  },
+  "2009.01429v1": {
+    "title": "Gemini: A Grammar and Recommender System for AnimatedTransitions in Statistical Graphics",
+    "authors": [
+      "Younghoon Kim",
+      "Jeffrey Heer"
+    ],
+    "summary": "Animated transitions help viewers follow changes between related\nvisualizations. Specifying effective animations demands significant effort:\nauthors must select the elements and properties to animate, provide transition\nparameters, and coordinate the timing of stages. To facilitate this process, we\npresent Gemini, a declarative grammar and recommendation system for animated\ntransitions between single-view statistical graphics. Gemini specifications\ndefine transition \"steps\" in terms of high-level visual components (marks,\naxes, legends) and composition rules to synchronize and concatenate steps. With\nthis grammar, Gemini can recommend animation designs to augment and accelerate\ndesigners' work. Gemini enumerates staged animation designs for given start and\nend states, and ranks those designs using a cost function informed by prior\nperceptual studies. To evaluate Gemini, we conduct both a formative study on\nMechanical Turk to assess and tune our ranking function, and a summative study\nin which 8 experienced visualization developers implement animations in D3 that\nwe then compare to Gemini's suggestions. We find that most designs (9/11) are\nexactly replicable in Gemini, with many (8/11) achievable via edits to\nsuggestions, and that Gemini suggestions avoid multiple participant errors.",
+    "pdf_url": "http://arxiv.org/pdf/2009.01429v1",
+    "published": "2020-09-03"
+  },
+  "astro-ph/0203343v1": {
+    "title": "Integral Field Spectroscopy with the Gemini 8-m Telescopes",
+    "authors": [
+      "B. W. Miller",
+      "J. Turner",
+      "M. Takamiya",
+      "D. Simons",
+      "I. Hook"
+    ],
+    "summary": "We give an overview of the current and future IFU capabilities on the Gemini\n8-m telescopes. The telescopes are well-suited to integral field spectroscopy\nand both telescopes will have optical and near-infrared IFUs within the next\nfew years. Commissioning for the GMOS IFU on Gemini North has begun recently\nand it is now available to the community. Future integral field instruments\nwill take advantage of wide-field adaptive optics systems.",
+    "pdf_url": "http://arxiv.org/pdf/astro-ph/0203343v1",
+    "published": "2002-03-20"
+  },
+  "1911.03926v1": {
+    "title": "Gemini: A Functional Programming Language for Hardware Description",
+    "authors": [
+      "Aditya Srinivasan",
+      "Andrew D. Hilton"
+    ],
+    "summary": "This paper presents Gemini, a functional programming language for hardware\ndescription that provides features such as parametric polymorphism, recursive\ndatatypes, higher-order functions, and type inference for higher expressivity\ncompared to modern hardware description languages. Gemini demonstrates the\ntheory and implementation of novel type-theoretical concepts through its unique\ntype system consisting of multiple atomic kinds and dependent types, which\nallows the language to model both software and hardware constructs safely and\nperform type inference through multi-staged compilation. The primary technical\nresults of this paper include formalizations of the Gemini grammar, typing\nrules, and evaluation rules, a proof of safety of Gemini's type system, and a\nprototype implementation of the compiler's semantic analysis phase.",
+    "pdf_url": "http://arxiv.org/pdf/1911.03926v1",
+    "published": "2019-11-10"
+  },
+  "2312.17661v1": {
+    "title": "Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models",
+    "authors": [
+      "Yuqing Wang",
+      "Yun Zhao"
+    ],
+    "summary": "The burgeoning interest in Multimodal Large Language Models (MLLMs), such as\nOpenAI's GPT-4V(ision), has significantly impacted both academic and industrial\nrealms. These models enhance Large Language Models (LLMs) with advanced visual\nunderstanding capabilities, facilitating their application in a variety of\nmultimodal tasks. Recently, Google introduced Gemini, a cutting-edge MLLM\ndesigned specifically for multimodal integration. Despite its advancements,\npreliminary benchmarks indicate that Gemini lags behind GPT models in\ncommonsense reasoning tasks. However, this assessment, based on a limited\ndataset (i.e., HellaSWAG), does not fully capture Gemini's authentic\ncommonsense reasoning potential. To address this gap, our study undertakes a\nthorough evaluation of Gemini's performance in complex reasoning tasks that\nnecessitate the integration of commonsense knowledge across modalities. We\ncarry out a comprehensive analysis of 12 commonsense reasoning datasets,\nranging from general to domain-specific tasks. This includes 11 datasets\nfocused solely on language, as well as one that incorporates multimodal\nelements. Our experiments across four LLMs and two MLLMs demonstrate Gemini's\ncompetitive commonsense reasoning capabilities. Additionally, we identify\ncommon challenges faced by current LLMs and MLLMs in addressing commonsense\nproblems, underscoring the need for further advancements in enhancing the\ncommonsense reasoning abilities of these models.",
+    "pdf_url": "http://arxiv.org/pdf/2312.17661v1",
+    "published": "2023-12-29"
+  }
+}

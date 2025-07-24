@@ -18,3 +18,4 @@ npx @modelcontextprotocol/inspector uv run src/mcp_chatbot/research_server.py
 2. Client
 uv run src/mcp_chatbot/mcp_chatbot.py 
 uv run src/mcp_chatbot/connect_mcp_chatbot.py 
+

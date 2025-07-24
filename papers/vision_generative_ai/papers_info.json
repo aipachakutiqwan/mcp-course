@@ -1,0 +1,108 @@
+{
+  "2502.11312v1": {
+    "title": "AI Generations: From AI 1.0 to AI 4.0",
+    "authors": [
+      "Jiahao Wu",
+      "Hengxu You",
+      "Jing Du"
+    ],
+    "summary": "This paper proposes that Artificial Intelligence (AI) progresses through\nseveral overlapping generations: AI 1.0 (Information AI), AI 2.0 (Agentic AI),\nAI 3.0 (Physical AI), and now a speculative AI 4.0 (Conscious AI). Each of\nthese AI generations is driven by shifting priorities among algorithms,\ncomputing power, and data. AI 1.0 ushered in breakthroughs in pattern\nrecognition and information processing, fueling advances in computer vision,\nnatural language processing, and recommendation systems. AI 2.0 built on these\nfoundations through real-time decision-making in digital environments,\nleveraging reinforcement learning and adaptive planning for agentic AI\napplications. AI 3.0 extended intelligence into physical contexts, integrating\nrobotics, autonomous vehicles, and sensor-fused control systems to act in\nuncertain real-world settings. Building on these developments, AI 4.0 puts\nforward the bold vision of self-directed AI capable of setting its own goals,\norchestrating complex training regimens, and possibly exhibiting elements of\nmachine consciousness. This paper traces the historical foundations of AI\nacross roughly seventy years, mapping how changes in technological bottlenecks\nfrom algorithmic innovation to high-performance computing to specialized data,\nhave spurred each generational leap. It further highlights the ongoing\nsynergies among AI 1.0, 2.0, 3.0, and 4.0, and explores the profound ethical,\nregulatory, and philosophical challenges that arise when artificial systems\napproach (or aspire to) human-like autonomy. Ultimately, understanding these\nevolutions and their interdependencies is pivotal for guiding future research,\ncrafting responsible governance, and ensuring that AI transformative potential\nbenefits society as a whole.",
+    "pdf_url": "http://arxiv.org/pdf/2502.11312v1",
+    "published": "2025-02-16"
+  },
+  "2503.08720v2": {
+    "title": "AI for Just Work: Constructing Diverse Imaginations of AI beyond \"Replacing Humans\"",
+    "authors": [
+      "Weina Jin",
+      "Nicholas Vincent",
+      "Ghassan Hamarneh"
+    ],
+    "summary": "\"why\" we develop AI. Lacking critical reflections on the general visions and\npurposes of AI may make the community vulnerable to manipulation. In this\nposition paper, we explore the \"why\" question of AI. We denote answers to the\n\"why\" question the imaginations of AI, which depict our general visions,\nframes, and mindsets for the prospects of AI. We identify that the prevailing\nvision in the AI community is largely a monoculture that emphasizes objectives\nsuch as replacing humans and improving productivity. Our critical examination\nof this mainstream imagination highlights its underpinning and potentially\nunjust assumptions. We then call to diversify our collective imaginations of\nAI, embedding ethical assumptions from the outset in the imaginations of AI. To\nfacilitate the community's pursuit of diverse imaginations, we demonstrate one\nprocess for constructing a new imagination of \"AI for just work,\" and showcase\nits application in the medical image synthesis task to make it more ethical. We\nhope this work will help the AI community to open critical dialogues with civil\nsociety on the visions and purposes of AI, and inspire more technical works and\nadvocacy in pursuit of diverse and ethical imaginations to restore the value of\nAI for the public good.",
+    "pdf_url": "http://arxiv.org/pdf/2503.08720v2",
+    "published": "2025-03-10"
+  },
+  "2407.13077v1": {
+    "title": "Visions of a Discipline: Analyzing Introductory AI Courses on YouTube",
+    "authors": [
+      "Severin Engelmann",
+      "Madiha Zahrah Choksi",
+      "Angelina Wang",
+      "Casey Fiesler"
+    ],
+    "summary": "Education plays an indispensable role in fostering societal well-being and is\nwidely regarded as one of the most influential factors in shaping the future of\ngenerations to come. As artificial intelligence (AI) becomes more deeply\nintegrated into our daily lives and the workforce, educational institutions at\nall levels are directing their focus on resources that cater to AI education.\nOur work investigates the current landscape of introductory AI courses on\nYouTube, and the potential for introducing ethics in this context. We\nqualitatively analyze the 20 most watched introductory AI courses on YouTube,\ncoding a total of 92.2 hours of educational content viewed by close to 50\nmillion people. Introductory AI courses do not meaningfully engage with ethical\nor societal challenges of AI (RQ1). When \\textit{defining and framing AI},\nintroductory AI courses foreground excitement around AI's transformative role\nin society, over-exaggerate AI's current and future abilities, and\nanthropomorphize AI (RQ2). In \\textit{teaching AI}, we see a widespread\nreliance on corporate AI tools and frameworks as well as a prioritization on a\nhands-on approach to learning rather than on conceptual foundations (RQ3). In\npromoting key \\textit{AI practices}, introductory AI courses abstract away\nentirely the socio-technical nature of AI classification and prediction, for\nexample by favoring data quantity over data quality (RQ4). We extend our\nanalysis with recommendations that aim to integrate ethical reflections into\nintroductory AI courses. We recommend that introductory AI courses should (1)\nhighlight ethical challenges of AI to present a more balanced perspective, (2)\nraise ethical issues explicitly relevant to the technical concepts discussed\nand (3) nurture a sense of accountability in future AI developers.",
+    "pdf_url": "http://arxiv.org/pdf/2407.13077v1",
+    "published": "2024-05-31"
+  },
+  "2307.02796v2": {
+    "title": "VerifAI: Verified Generative AI",
+    "authors": [
+      "Nan Tang",
+      "Chenyu Yang",
+      "Ju Fan",
+      "Lei Cao",
+      "Yuyu Luo",
+      "Alon Halevy"
+    ],
+    "summary": "Generative AI has made significant strides, yet concerns about the accuracy\nand reliability of its outputs continue to grow. Such inaccuracies can have\nserious consequences such as inaccurate decision-making, the spread of false\ninformation, privacy violations, legal liabilities, and more. Although efforts\nto address these risks are underway, including explainable AI and responsible\nAI practices such as transparency, privacy protection, bias mitigation, and\nsocial and environmental responsibility, misinformation caused by generative AI\nwill remain a significant challenge. We propose that verifying the outputs of\ngenerative AI from a data management perspective is an emerging issue for\ngenerative AI. This involves analyzing the underlying data from multi-modal\ndata lakes, including text files, tables, and knowledge graphs, and assessing\nits quality and consistency. By doing so, we can establish a stronger\nfoundation for evaluating the outputs of generative AI models. Such an approach\ncan ensure the correctness of generative AI, promote transparency, and enable\ndecision-making with greater confidence. Our vision is to promote the\ndevelopment of verifiable generative AI and contribute to a more trustworthy\nand responsible use of AI.",
+    "pdf_url": "http://arxiv.org/pdf/2307.02796v2",
+    "published": "2023-07-06"
+  },
+  "1906.03466v1": {
+    "title": "Strategies to architect AI Safety: Defense to guard AI from Adversaries",
+    "authors": [
+      "Rajagopal. A",
+      "Nirmala. V"
+    ],
+    "summary": "The impact of designing for security of AI is critical for humanity in the AI\nera. With humans increasingly becoming dependent upon AI, there is a need for\nneural networks that work reliably, inspite of Adversarial attacks. The vision\nfor Safe and secure AI for popular use is achievable. To achieve safety of AI,\nthis paper explores strategies and a novel deep learning architecture. To guard\nAI from adversaries, paper explores combination of 3 strategies:\n  1. Introduce randomness at inference time to hide the representation learning\nfrom adversaries.\n  2. Detect presence of adversaries by analyzing the sequence of inferences.\n  3. Exploit visual similarity.\n  To realize these strategies, this paper designs a novel architecture, Dynamic\nNeural Defense, DND. This defense has 3 deep learning architectural features:\n  1. By hiding the way a neural network learns from exploratory attacks using a\nrandom computation graph, DND evades attack.\n  2. By analyzing input sequence to cloud AI inference engine with LSTM, DND\ndetects attack sequence.\n  3. By inferring with visual similar inputs generated by VAE, any AI defended\nby DND approach does not succumb to hackers.\n  Thus, a roadmap to develop reliable, safe and secure AI is presented.",
+    "pdf_url": "http://arxiv.org/pdf/1906.03466v1",
+    "published": "2019-06-08"
+  },
+  "2504.03191v1": {
+    "title": "Three Forensic Cues for JPEG AI Images",
+    "authors": [
+      "Sandra Bergmann",
+      "Fabian Brand",
+      "Christian Riess"
+    ],
+    "summary": "The JPEG standard was vastly successful. Currently, the first AI-based\ncompression method ``JPEG AI'' will be standardized. JPEG AI brings remarkable\nbenefits. JPEG AI images exhibit impressive image quality at bitrates that are\nan order of magnitude lower than images compressed with traditional JPEG.\nHowever, forensic analysis of JPEG AI has to be completely re-thought: forensic\ntools for traditional JPEG do not transfer to JPEG AI, and artifacts from JPEG\nAI are easily confused with artifacts from artificially generated images\n(``DeepFakes''). This creates a need for novel forensic approaches to detection\nand distinction of JPEG AI images. In this work, we make a first step towards a\nforensic JPEG AI toolset. We propose three cues for forensic algorithms for\nJPEG AI. These algorithms address three forensic questions: first, we show that\nthe JPEG AI preprocessing introduces correlations in the color channels that do\nnot occur in uncompressed images. Second, we show that repeated compression of\nJPEG AI images leads to diminishing distortion differences. This can be used to\ndetect recompression, in a spirit similar to some classic JPEG forensics\nmethods. Third, we show that the quantization of JPEG AI images in the latent\nspace can be used to distinguish real images with JPEG AI compression from\nsynthetically generated images. The proposed methods are interpretable for a\nforensic analyst, and we hope that they inspire further research in the\nforensics of AI-compressed images.",
+    "pdf_url": "http://arxiv.org/pdf/2504.03191v1",
+    "published": "2025-04-04"
+  },
+  "2406.03245v2": {
+    "title": "Reconfiguring Participatory Design to Resist AI Realism",
+    "authors": [
+      "Aakash Gautam"
+    ],
+    "summary": "The growing trend of artificial intelligence (AI) as a solution to social and\ntechnical problems reinforces AI Realism -- the belief that AI is an inevitable\nand natural order. In response, this paper argues that participatory design\n(PD), with its focus on democratic values and processes, can play a role in\nquestioning and resisting AI Realism. I examine three concerning aspects of AI\nRealism: the facade of democratization that lacks true empowerment, demands for\nhuman adaptability in contrast to AI systems' inflexibility, and the\nobfuscation of essential human labor enabling the AI system. I propose\nresisting AI Realism by reconfiguring PD to continue engaging with\nvalue-centered visions, increasing its exploration of non-AI alternatives, and\nmaking the essential human labor underpinning AI systems visible. I position PD\nas a means to generate friction against AI Realism and open space for\nalternative futures centered on human needs and values.",
+    "pdf_url": "http://arxiv.org/pdf/2406.03245v2",
+    "published": "2024-06-05"
+  },
+  "2505.18894v1": {
+    "title": "Digital Overconsumption and Waste: A Closer Look at the Impacts of Generative AI",
+    "authors": [
+      "Vanessa Utz",
+      "Steve DiPaola"
+    ],
+    "summary": "Generative Artificial Intelligence (AI) systems currently contribute\nnegatively to the production of digital waste, via the associated energy\nconsumption and the related CO2 emissions. At this moment, a discussion is\nurgently needed on the replication of harmful consumer behavior, such as\noverconsumption, in the digital space. We outline our previous work on the\nclimate implications of commercially available generative AI systems and the\nsentiment of generative AI users when confronted with AI-related climate\nresearch. We expand on this work via a discussion of digital overconsumption\nand waste, other related societal impacts, and a possible solution pathway",
+    "pdf_url": "http://arxiv.org/pdf/2505.18894v1",
+    "published": "2025-05-24"
+  },
+  "2407.18524v1": {
+    "title": "She Works, He Works: A Curious Exploration of Gender Bias in AI-Generated Imagery",
+    "authors": [
+      "Amalia Foka"
+    ],
+    "summary": "This paper examines gender bias in AI-generated imagery of construction\nworkers, highlighting discrepancies in the portrayal of male and female\nfigures. Grounded in Griselda Pollock's theories on visual culture and gender,\nthe analysis reveals that AI models tend to sexualize female figures while\nportraying male figures as more authoritative and competent. These findings\nunderscore AI's potential to mirror and perpetuate societal biases, emphasizing\nthe need for critical engagement with AI-generated content. The project\ncontributes to discussions on the ethical implications of AI in creative\npractices and its broader impact on cultural perceptions of gender.",
+    "pdf_url": "http://arxiv.org/pdf/2407.18524v1",
+    "published": "2024-07-26"
+  },
+  "2507.14730v1": {
+    "title": "Towards AI Urban Planner in the Age of GenAI, LLMs, and Agentic AI",
+    "authors": [
+      "Yanjie Fu"
+    ],
+    "summary": "Generative AI, large language models, and agentic AI have emerged separately\nof urban planning. However, the convergence between AI and urban planning\npresents an interesting opportunity towards AI urban planners. This paper\nconceptualizes urban planning as a generative AI task, where AI synthesizes\nland-use configurations under geospatial, social, and human-centric\nconstraints. We survey how generative AI approaches, including VAEs, GANs,\ntransformers, and diffusion models, reshape urban design. We further identify\ncritical gaps: 1) limited research on integrating urban theory guidance, 2)\nlimited research of AI urban planning over multiple spatial resolutions or\nangularities, 3) limited research on augmenting urban design knowledge from\ndata, and 4) limited research on addressing real-world interactions. To address\nthese limitations, we outline future research directions in theory-guided\ngeneration, digital twins, and human-machine co-design, calling for a new\nsynthesis of generative intelligence and participatory urbanism.",
+    "pdf_url": "http://arxiv.org/pdf/2507.14730v1",
+    "published": "2025-07-19"
+  }
+}
