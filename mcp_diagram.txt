@@ -1,0 +1,122 @@
+```
++----------------------------------------------+
+|                                              |
+|     MODEL CONTEXT PROTOCOL ARCHITECTURE      |
+|                                              |
++----------------------------------------------+
+
++--------------------------------------+
+|            CLIENT-SERVER             |
+|            ARCHITECTURE              |
++--------------------------------------+
+|                                      |
+|  +---------+        +-----------+    |
+|  |  HOST   |        |           |    |
+|  | (LLM    |        |  SERVER   |    |
+|  |  App)   |        |           |    |
+|  |         |        |  Provides:|    |
+|  | Contains|        |  - Context|    |
+|  | CLIENT  |<------>|  - Tools  |    |
+|  |         |        |  - Prompts|    |
+|  +---------+        +-----------+    |
+|                                      |
++--------------------------------------+
+
++--------------------------------------+
+|           PROTOCOL LAYERS            |
++--------------------------------------+
+|                                      |
+| +------------+    +---------------+  |
+| | PROTOCOL   |    | TRANSPORT     |  |
+| | LAYER      |    | LAYER         |  |
+| |            |    |               |  |
+| | - Protocol |    | - Stdio       |  |
+| | - Client   |    |   (local)     |  |
+| | - Server   |    | - HTTP + SSE  |  |
+| |            |    |   (remote)    |  |
+| +------------+    +---------------+  |
+|                                      |
+| All use JSON-RPC 2.0 for messages    |
+|                                      |
++--------------------------------------+
+
++--------------------------------------+
+|           MESSAGE TYPES              |
++--------------------------------------+
+|                                      |
+| +------------+    +---------------+  |
+| | REQUESTS   |    | RESULTS       |  |
+| | method     |    | data          |  |
+| | params     |    |               |  |
+| +------------+    +---------------+  |
+|                                      |
+| +------------+    +---------------+  |
+| | ERRORS     |    | NOTIFICATIONS |  |
+| | code       |    | method        |  |
+| | message    |    | params        |  |
+| | data       |    | (one-way)     |  |
+| +------------+    +---------------+  |
+|                                      |
++--------------------------------------+
+
++--------------------------------------+
+|        CONNECTION LIFECYCLE          |
++--------------------------------------+
+|                                      |
+| 1. INITIALIZATION                    |
+|    Client → initialize request       |
+|    Server → capabilities response    |
+|    Client → initialized notification |
+|                                      |
+| 2. MESSAGE EXCHANGE                  |
+|    Request-Response pattern          |
+|    Notification pattern              |
+|                                      |
+| 3. TERMINATION                       |
+|    close() method                    |
+|    Transport disconnection           |
+|    Error conditions                  |
+|                                      |
++--------------------------------------+
+
++--------------------------------------+
+|          ERROR HANDLING              |
++--------------------------------------+
+|                                      |
+| Standard JSON-RPC Error Codes:       |
+| - ParseError        (-32700)         |
+| - InvalidRequest    (-32600)         |
+| - MethodNotFound    (-32601)         |
+| - InvalidParams     (-32602)         |
+| - InternalError     (-32603)         |
+|                                      |
+| Custom error codes > -32000          |
+|                                      |
++--------------------------------------+
+
++--------------------------------------+
+|          BEST PRACTICES              |
++--------------------------------------+
+|                                      |
+| 1. TRANSPORT SELECTION               |
+|    - Stdio for local                 |
+|    - HTTP for remote                 |
+|                                      |
+| 2. MESSAGE HANDLING                  |
+|    - Request validation              |
+|    - Progress reporting              |
+|    - Error management                |
+|                                      |
+| 3. SECURITY                          |
+|    - Transport security              |
+|    - Message validation              |
+|    - Resource protection             |
+|    - Secure error handling           |
+|                                      |
+| 4. DEBUGGING                         |
+|    - Logging                         |
+|    - Diagnostics                     |
+|    - Testing                         |
+|                                      |
++--------------------------------------+
+```

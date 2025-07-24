@@ -11,3 +11,10 @@ Arguments: run --with mcp mcp run src/server.py
 
 python src/gradio_mcp_server.py 
 
+MCP Chatbot
+1. Server
+npx @modelcontextprotocol/inspector uv run src/mcp_chatbot/research_server.py
+
+2. Client
+uv run src/mcp_chatbot/mcp_chatbot.py 
+uv run src/mcp_chatbot/connect_mcp_chatbot.py 

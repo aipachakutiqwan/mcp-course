@@ -1,0 +1,52 @@
+{
+  "1612.01155v1": {
+    "title": "A Multifaceted Panel Data Gravity Model Analysis of Peru's Foreign Trade",
+    "authors": [
+      "Xu Wang",
+      "Ryan P. Badman"
+    ],
+    "summary": "Peru's abundant natural resources and friendly trade policies has made the\ncountry a major economic player in both South America and the global community.\nConsequently, exports are playing an increasingly important role in Peru's\nnational economy. Indeed, growing from 13.1% as of 1994, exports now contribute\napproximately 21% of the GDP of Peru as of 2015. Given Peru's growing global\ninfluence, the time is ripe for a thorough analysis of the most important\nfactors governing its export performance. Thus, within the framework of the\naugmented gravity model of trade, this paper examines Peru's export performance\nand attempts to identify the dominant economic factors that should be further\ndeveloped to increase the value of exports. The analysis was conducted from\nthree different aspects: (1) general economic parameters' effect on Peru's\nexport value, (2) more specific analysis into a major specific trade good,\ncopper, and (3) the impact that regional trade agreements have had on Peru's\nexport performance. Our panel data analysis results for each dataset revealed\ninteresting economic trends and were consistent with the theoretical\nexpectations of the gravity model: namely positive coefficients for economic\nsize and negative coefficients for distance. This report's results can be a\nreference for the proper direction of Peruvian economic policy so as to enhance\neconomic growth in a sustainable direction.",
+    "pdf_url": "http://arxiv.org/pdf/1612.01155v1",
+    "published": "2016-12-04"
+  },
+  "2207.05498v1": {
+    "title": "Huqariq: A Multilingual Speech Corpus of Native Languages of Peru for Speech Recognition",
+    "authors": [
+      "Rodolfo Zevallos",
+      "Luis Camacho",
+      "Nelsi Melgarejo"
+    ],
+    "summary": "The Huqariq corpus is a multilingual collection of speech from native\nPeruvian languages. The transcribed corpus is intended for the research and\ndevelopment of speech technologies to preserve endangered languages in Peru.\nHuqariq is primarily designed for the development of automatic speech\nrecognition, language identification and text-to-speech tools. In order to\nachieve corpus collection sustainably, we employ the crowdsourcing methodology.\nHuqariq includes four native languages of Peru, and it is expected that by the\nend of the year 2022, it can reach up to 20 native languages out of the 48\nnative languages in Peru. The corpus has 220 hours of transcribed audio\nrecorded by more than 500 volunteers, making it the largest speech corpus for\nnative languages in Peru. In order to verify the quality of the corpus, we\npresent speech recognition experiments using 220 hours of fully transcribed\naudio.",
+    "pdf_url": "http://arxiv.org/pdf/2207.05498v1",
+    "published": "2022-07-12"
+  },
+  "quant-ph/0303092v2": {
+    "title": "Quantum-wave pattern recognition: From simulations towards implementation",
+    "authors": [
+      "Mitja Perus",
+      "Horst Bischof"
+    ],
+    "summary": "A simulated Hopfield-type neural-net-like model, which is realizable using\nquantum holography, is proposed for quantum associative memory and pattern\nrecognition.",
+    "pdf_url": "http://arxiv.org/pdf/quant-ph/0303092v2",
+    "published": "2003-03-14"
+  },
+  "quant-ph/0305072v1": {
+    "title": "A neural-network-like quantum information processing system",
+    "authors": [
+      "Mitja Perus",
+      "Horst Bischof"
+    ],
+    "summary": "The Hopfield neural networks and the holographic neural networks are models\nwhich were successfully simulated on conventional computers. Starting with\nthese models, an analogous fundamental quantum information processing system is\ndeveloped in this article. Neuro-quantum interaction can regulate the\n\"collapse\"-readout of quantum computation results. This paper is a\ncomprehensive introduction into associative processing and memory-storage in\nquantum-physical framework.",
+    "pdf_url": "http://arxiv.org/pdf/quant-ph/0305072v1",
+    "published": "2003-05-13"
+  },
+  "1208.3580v1": {
+    "title": "The solar towers of Chankillo",
+    "authors": [
+      "Amelia Carolina Sparavigna"
+    ],
+    "summary": "An ancient solar observatory is composed by thirteen towers lined on a hill\nof a coastal desert of Peru. This is the Chankillo observatory. Here we discuss\nit, showing some simulations of the local sun direction. An analysis of the\nbehaviour of shadows is also proposed.",
+    "pdf_url": "http://arxiv.org/pdf/1208.3580v1",
+    "published": "2012-08-17"
+  }
+}
